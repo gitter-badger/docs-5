@@ -9,8 +9,11 @@ taxonomy:
 Gantry Framework added a new concept called Particles. They are similar to Modules , allowing you to quickly configure the Layout of your site.
 
 There are three basic types of Particles:
+
 	• Standard Particles (e.g. Branding, Logo),
+  
 	• Positions are block that can have content or scripting assigned to them by the CMS (e.g. Page Content, Module Position),
+
 	• Atoms are non - visible Particles, will not visually render on front end (e.g. Custom CSS/JS, Google Analytics).
 
 **Particle Settings**

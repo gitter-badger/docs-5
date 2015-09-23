@@ -1,13 +1,15 @@
-CakePHP 3
+# Grav Specific
+.sass-cache
+composer.lock
+cache/*
+assets/*
+logs/*
+images/*
+user/data/*
 
-/vendor/*
-/config/app.php
-/tmp/*
-/logs/*
-
-CakePHP 2
-
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp

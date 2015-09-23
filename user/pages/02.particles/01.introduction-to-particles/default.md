@@ -14,6 +14,7 @@ There are three basic types of Particles:
 	• Atoms are non - visible Particles, will not visually render on front end (e.g. Custom CSS/JS, Google Analytics).
 
 **Particle Settings**
+
 Accessing the Particle Settings is pretty simple, just select the settings icon for the particle you wish to adjust. A popup will appear with two tabs, Particle and Block.
 
 Particle tab contain specific fields, could be a text input, image picker, icon picker and so on.
